@@ -1,12 +1,15 @@
+/* All Content Styles --------------------------- */
+
 .main-wrapper {
   width: 100%;
   height: 100vh;
-  box-sizing: border-box;
 }
 
 h1, p {
   margin: 0 0;
 }
+
+/* Main Content Styles --------------------------- */
 
 section {
   width: 50%;
@@ -14,16 +17,24 @@ section {
 }
 #about {
   float: left;
+  background-color: #DEDFD1;
 }
 
 #education {
   float: right;
+  background-image: url(../college1.svg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 20%;
+  background-color: aquamarine;
 }
 
 #skills {
   float: left;
+  background-color: brown
 }
 
 #portfolio {
   float: right;
+  background-color: bisque;
 }
