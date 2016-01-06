@@ -1,0 +1,9 @@
+.main-wrapper {
+  width: 100%;
+  height: 100vh;
+  box-sizing: border-box;
+}
+
+h1, p {
+  margin: 0 0;
+}
