@@ -7,3 +7,23 @@
 h1, p {
   margin: 0 0;
 }
+
+section {
+  width: 50%;
+  height: 50%;
+}
+#about {
+  float: left;
+}
+
+#education {
+  float: right;
+}
+
+#skills {
+  float: left;
+}
+
+#portfolio {
+  float: right;
+}
